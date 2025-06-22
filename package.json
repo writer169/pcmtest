@@ -1,0 +1,11 @@
+{
+  "name": "binary-analyzer-api",
+  "version": "1.0.0",
+  "description": "API для анализа бинарных данных (PCM, WAV и др)",
+  "main": "api/analyze.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "type": "module"
+}
